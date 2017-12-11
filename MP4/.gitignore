@@ -1,0 +1,10 @@
+.gradle
+!gradle-wrapper.jar
+/bin/
+/build/
+/test-output/
+/.settings/org.eclipse.buildship.core.prefs
+*.swp
+*.swo
+/.vertx
+/node_modules/
